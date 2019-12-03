@@ -12,7 +12,6 @@ function mathOperation($arg1, $arg2, $operation){
 	switch ($operation){
 		case "сложение":
 			echo "Выбрано действие $operation, проверка работы функции $arg1 + $arg2 =". sum($arg1, $arg2);
-			//return $sum();
 			break;
 		case "вычитание":
 			echo "Выбрано действие $operation, проверка работы функции $arg1 - $arg2 =". diff($arg1, $arg2);
