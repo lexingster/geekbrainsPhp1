@@ -23,24 +23,4 @@ foreach($files as $file){
 	
 	
 	?>
-	<?php /*
 	
-	<div id="wrapper">
-  <div class="cover"></div>
-  <div class="modal">
-    <div class="content">
-      <p>THIS IS CONTENT</p>
-      <form onsubmit="return false">
-        <input type="text" placeholder="test">
-        <input type="submit" />
-      </form>
-    </div>
-  </div>
-
-  <div class="cnt">
-    <button class="open-modal-btn">OPEN MODAL</button>
-  </div>
-</div>
-*/
-?>
-
